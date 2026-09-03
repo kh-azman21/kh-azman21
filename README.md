@@ -1,11 +1,10 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,20:312E81,40:4C1D95,60:0E7490,80:0891B2,100:0F172A&height=220&section=header&text=Welcome%20To%20My%20Profile%20🚀&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,20:312E81,40:4C1D95,60:0E7490,80:0891B2,100:0F172A&height=220&section=header&text=Welcome%20To%20My%20Profile%20🚀&fontSize=38&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"
     width="100%"
     alt="Header Banner"
   />
 </div>
-    
        
 
 <h1 align="center">Hi 👋, I'm Khondokar Azman</h1>
