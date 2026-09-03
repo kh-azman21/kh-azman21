@@ -8,11 +8,6 @@
 Hello! I am a passionate Frontend Developer from Bangladesh with a deep interest in modern web architectures and problem-solving. I focus on creating responsive, performant, and user-friendly web applications, while continuously expanding my knowledge in full-stack technologies and AI integration.
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kh-azman21&label=Profile%20views&color=0e75b6&style=flat" alt="kh-azman21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kh-azman21" alt="kh-azman21" /></a> </p>
-
 - 🔭 I’m currently working on **Developing applications and optimizing core algorithmic solutions**
 
 - 🌱 I’m currently learning **AI driven Full-Stack Web Engineering**
