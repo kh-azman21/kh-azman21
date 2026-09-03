@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Khondokar%20Azman&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Welcome%20to%20my%20Space%20🚀&fontSize=38&fontColor=ffffff" width="100%" alt="Header Banner" />
 </div>
 <h1 align="center">Hi 👋, I'm Khondokar Azman</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
