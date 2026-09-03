@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner_3d.svg"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,20:172554,45:1D4ED8,65:06B6D4,85:7C3AED,100:0F172A&height=220&section=header&text=Welcome%20To%20My%20Profile%20🚀&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
     width="100%"
     alt="Header Banner"
   />
