@@ -1,20 +1,10 @@
-<div align="center" style="position: relative;">
-
+<div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,50:1E1B4B,100:0B1026&height=220&section=header&opacity=0.5"
-    width="100%"
-    alt="Header Shadow Layer"
-    style="position: absolute; top: 8px; left: 0; z-index: 1; filter: blur(2px);"
-  />
-
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,20:312E81,40:4C1D95,60:0E7490,80:0891B2,100:0F172A&height=220&section=header&text=Welcome%20To%20My%20Profile%20🚀&fontSize=38&fontColor=FFFFFF&fontWeight=900&stroke=1E1B4B&strokeWidth=2&animation=fadeIn&fontAlignY=38&textBg=true"
+    src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner_3d.svg"
     width="100%"
     alt="Header Banner"
-    style="position: relative; z-index: 2;"
   />
-</div> 
+</div>
 
 <h1 align="center">Hi 👋, I'm Khondokar Azman</h1>
 <h3 align="center">AI-Driven Web Engineering Enthusiast</h3>
