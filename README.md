@@ -1,6 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Hello%20World!%20You%20Found%20My%20Profile%20👀&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" alt="Hello World Banner" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=KHONDOKAR%20AZMAN&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI-Driven%20Web%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=c9f7ff&color=0:020617,25:0f172a,50:0369a1,75:0891b2,100:06b6d4"/>
+
 </div>
+
+<div align="center">
+
+### ⚡ `Turning ideas into code — and occasionally breaking the code first.`
+
+<br>
+
+**Web Development** · **Artificial Intelligence** · **Cybersecurity** · **Computer Science**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,git,github&theme=dark" />
+
+<br><br>
+
+> 🚀 Building. Learning. Experimenting. Rebuilding.
+> ✨ Serious about the work — not about making it boring.
+
+</div>
+
 
 
 <h1 align="center">Hi 👋, I'm Khondokar Azman</h1>
