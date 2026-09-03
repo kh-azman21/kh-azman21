@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Khondokar Azman</h1>
 
-Hello! I am a passionate about to be Frontend Developer with a deep interest in modern web architectures and problem-solving. I focus on creating responsive, performant, and user-friendly web applications, while continuously expanding my knowledge in full-stack technologies and AI integration.
+ I am a passionate about to be Frontend Developer with a deep interest in modern web architectures and problem-solving. I focus on creating responsive, performant, and user-friendly web applications, while continuously expanding my knowledge in full-stack technologies and AI integration.
 
 
 - 🔭 I’m currently working on **Developing applications and optimizing core algorithmic solutions**
