@@ -31,6 +31,4 @@ Hello! I am a passionate Frontend Developer from Bangladesh with a deep interest
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kh-azman21&show_icons=true&locale=en&layout=compact" alt="kh-azman21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kh-azman21&show_icons=true&locale=en" alt="kh-azman21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kh-azman21&" alt="kh-azman21" /></p>
